@@ -1,0 +1,8 @@
+E:\GGJ2024\ggj2024demo\Temp\bin\Debug\Unity.Physics.Custom.deps.json
+E:\GGJ2024\ggj2024demo\Temp\bin\Debug\Unity.Physics.Custom.dll
+E:\GGJ2024\ggj2024demo\Temp\bin\Debug\Unity.Physics.Custom.pdb
+E:\GGJ2024\ggj2024demo\Temp\obj\Debug\Unity.Physics.Custom\Unity.Physics.Custom.csproj.AssemblyReference.cache
+E:\GGJ2024\ggj2024demo\Temp\obj\Debug\Unity.Physics.Custom\Unity.Physics.Custom.GeneratedMSBuildEditorConfig.editorconfig
+E:\GGJ2024\ggj2024demo\Temp\obj\Debug\Unity.Physics.Custom\Unity.Physics.Custom.csproj.CoreCompileInputs.cache
+E:\GGJ2024\ggj2024demo\Temp\obj\Debug\Unity.Physics.Custom\Unity.Physics.Custom.dll
+E:\GGJ2024\ggj2024demo\Temp\obj\Debug\Unity.Physics.Custom\Unity.Physics.Custom.pdb

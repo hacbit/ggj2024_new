@@ -1,0 +1,10 @@
+E:\GGJ2024\ggj2024demo\Temp\bin\Debug\Unity.Physics.Custom.Editor.deps.json
+E:\GGJ2024\ggj2024demo\Temp\bin\Debug\Unity.Physics.Custom.Editor.dll
+E:\GGJ2024\ggj2024demo\Temp\bin\Debug\Unity.Physics.Custom.Editor.pdb
+E:\GGJ2024\ggj2024demo\Temp\bin\Debug\Unity.Physics.Custom.pdb
+E:\GGJ2024\ggj2024demo\Temp\obj\Debug\Unity.Physics.Custom.Editor\Unity.Physics.Custom.Editor.csproj.AssemblyReference.cache
+E:\GGJ2024\ggj2024demo\Temp\obj\Debug\Unity.Physics.Custom.Editor\Unity.Physics.Custom.Editor.GeneratedMSBuildEditorConfig.editorconfig
+E:\GGJ2024\ggj2024demo\Temp\obj\Debug\Unity.Physics.Custom.Editor\Unity.Physics.Custom.Editor.csproj.CoreCompileInputs.cache
+E:\GGJ2024\ggj2024demo\Temp\obj\Debug\Unity.Physics.Custom.Editor\Unity.Physics.Custom.Editor.csproj.CopyComplete
+E:\GGJ2024\ggj2024demo\Temp\obj\Debug\Unity.Physics.Custom.Editor\Unity.Physics.Custom.Editor.dll
+E:\GGJ2024\ggj2024demo\Temp\obj\Debug\Unity.Physics.Custom.Editor\Unity.Physics.Custom.Editor.pdb

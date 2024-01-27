@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{B20C56DA-E408-0E3B-2FA8-33E4CF4CA861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Physics.Custom", "Unity.Physics.Custom.csproj", "{420A75AA-8FAF-BCEE-1FBA-7BDBD867874D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Physics.Custom.Editor", "Unity.Physics.Custom.Editor.csproj", "{F66C3B1C-1883-A4C2-9AD8-821BE97A5301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20C56DA-E408-0E3B-2FA8-33E4CF4CA861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20C56DA-E408-0E3B-2FA8-33E4CF4CA861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20C56DA-E408-0E3B-2FA8-33E4CF4CA861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20C56DA-E408-0E3B-2FA8-33E4CF4CA861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420A75AA-8FAF-BCEE-1FBA-7BDBD867874D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420A75AA-8FAF-BCEE-1FBA-7BDBD867874D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420A75AA-8FAF-BCEE-1FBA-7BDBD867874D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420A75AA-8FAF-BCEE-1FBA-7BDBD867874D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F66C3B1C-1883-A4C2-9AD8-821BE97A5301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66C3B1C-1883-A4C2-9AD8-821BE97A5301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F66C3B1C-1883-A4C2-9AD8-821BE97A5301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F66C3B1C-1883-A4C2-9AD8-821BE97A5301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

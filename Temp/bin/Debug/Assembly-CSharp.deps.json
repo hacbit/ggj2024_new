@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Assembly-CSharp/1.0.0": {
+        "dependencies": {
+          "Unity.Physics.Custom": "1.0.0",
+          "Unity.Physics.Custom.Editor": "1.0.0"
+        },
+        "runtime": {
+          "Assembly-CSharp.dll": {}
+        }
+      },
+      "Unity.Physics.Custom/1.0.0": {
+        "runtime": {
+          "Unity.Physics.Custom.dll": {}
+        }
+      },
+      "Unity.Physics.Custom.Editor/1.0.0": {
+        "dependencies": {
+          "Unity.Physics.Custom": "1.0.0"
+        },
+        "runtime": {
+          "Unity.Physics.Custom.Editor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assembly-CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unity.Physics.Custom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unity.Physics.Custom.Editor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
