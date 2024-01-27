@@ -405,7 +405,7 @@ ScriptedImporter:
     - {x: 22, y: 23}
     tessellationDetail: 0
     uvTransform: {x: 83, y: 99}
-    spritePosition: {x: 557, y: 386}
+    spritePosition: {x: 13, y: 111}
   - name: hand_right
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -706,7 +706,7 @@ ScriptedImporter:
     - {x: 21, y: 22}
     tessellationDetail: 0
     uvTransform: {x: 392, y: 99}
-    spritePosition: {x: 570, y: 434}
+    spritePosition: {x: 26, y: 159}
   - name: boom
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1339,7 +1339,7 @@ ScriptedImporter:
     - {x: 52, y: 53}
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-    spritePosition: {x: 544, y: 441}
+    spritePosition: {x: 0, y: 166}
   - name: big_arm_right
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1642,7 +1642,7 @@ ScriptedImporter:
     - {x: 22, y: 23}
     tessellationDetail: 0
     uvTransform: {x: 441, y: 4}
-    spritePosition: {x: 566, y: 383}
+    spritePosition: {x: 22, y: 108}
   - name: head
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1947,7 +1947,7 @@ ScriptedImporter:
     - {x: 23, y: 24}
     tessellationDetail: 0
     uvTransform: {x: 361, y: 4}
-    spritePosition: {x: 607, y: 392}
+    spritePosition: {x: 63, y: 117}
   - name: cloth_up
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2369,7 +2369,7 @@ ScriptedImporter:
     - {x: 32, y: 33}
     tessellationDetail: 0
     uvTransform: {x: 172, y: 4}
-    spritePosition: {x: 595, y: 348}
+    spritePosition: {x: 51, y: 73}
   - name: cloth_down
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2661,7 +2661,7 @@ ScriptedImporter:
     - {x: 21, y: 22}
     tessellationDetail: 0
     uvTransform: {x: 441, y: 62}
-    spritePosition: {x: 598, y: 333}
+    spritePosition: {x: 54, y: 58}
   - name: body
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2856,7 +2856,7 @@ ScriptedImporter:
     - {x: 13, y: 14}
     tessellationDetail: 0
     uvTransform: {x: 4, y: 99}
-    spritePosition: {x: 595, y: 275}
+    spritePosition: {x: 51, y: 0}
   - name: big_arm_left
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3159,7 +3159,7 @@ ScriptedImporter:
     - {x: 22, y: 23}
     tessellationDetail: 0
     uvTransform: {x: 439, y: 99}
-    spritePosition: {x: 652, y: 376}
+    spritePosition: {x: 108, y: 101}
   - name: hand_left
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3484,7 +3484,7 @@ ScriptedImporter:
     - {x: 24, y: 25}
     tessellationDetail: 0
     uvTransform: {x: 83, y: 171}
-    spritePosition: {x: 666, y: 424}
+    spritePosition: {x: 122, y: 149}
   - name: small_arm_left
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3741,7 +3741,7 @@ ScriptedImporter:
     - {x: 17, y: 18}
     tessellationDetail: 0
     uvTransform: {x: 307, y: 99}
-    spritePosition: {x: 667, y: 386}
+    spritePosition: {x: 123, y: 111}
   - name: crotch
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -4073,7 +4073,7 @@ ScriptedImporter:
     - {x: 23, y: 24}
     tessellationDetail: 0
     uvTransform: {x: 132, y: 99}
-    spritePosition: {x: 598, y: 319}
+    spritePosition: {x: 54, y: 44}
   - name: thigh_right
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -4383,7 +4383,7 @@ ScriptedImporter:
     - {x: 21, y: 22}
     tessellationDetail: 0
     uvTransform: {x: 255, y: 99}
-    spritePosition: {x: 590, y: 298}
+    spritePosition: {x: 46, y: 23}
   - name: calf_right
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -4684,7 +4684,7 @@ ScriptedImporter:
     - {x: 21, y: 22}
     tessellationDetail: 0
     uvTransform: {x: 200, y: 99}
-    spritePosition: {x: 566, y: 299}
+    spritePosition: {x: 22, y: 24}
   - name: thigh-left
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -4886,7 +4886,7 @@ ScriptedImporter:
     - {x: 12, y: 13}
     tessellationDetail: 0
     uvTransform: {x: 252, y: 4}
-    spritePosition: {x: 577, y: 319}
+    spritePosition: {x: 33, y: 44}
   - name: calf_keft
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5196,7 +5196,7 @@ ScriptedImporter:
     - {x: 21, y: 22}
     tessellationDetail: 0
     uvTransform: {x: 347, y: 99}
-    spritePosition: {x: 657, y: 297}
+    spritePosition: {x: 113, y: 22}
   - name: foot_left
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5455,7 +5455,7 @@ ScriptedImporter:
     - {x: 18, y: 19}
     tessellationDetail: 0
     uvTransform: {x: 83, y: 219}
-    spritePosition: {x: 677, y: 290}
+    spritePosition: {x: 133, y: 15}
   - name: foot_right
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5725,7 +5725,7 @@ ScriptedImporter:
     - {x: 19, y: 20}
     tessellationDetail: 0
     uvTransform: {x: 129, y: 171}
-    spritePosition: {x: 550, y: 325}
+    spritePosition: {x: 6, y: 50}
   - name: "\u56FE\u5C42 1"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5746,7 +5746,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 347, y: 155}
-    spritePosition: {x: 0, y: 753}
+    spritePosition: {x: 0, y: 253}
   characterData:
     bones:
     - name: bone_1
