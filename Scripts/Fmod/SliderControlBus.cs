@@ -13,6 +13,7 @@ public class SliderControlBus : MonoBehaviour
     void Start() 
     {
         bus = FMODUnity.RuntimeManager.GetBus("bus:/" + BusName);
+        bus.setVolume(0.5f);
     }
 
     public void SetBusVolume(float busvolume)

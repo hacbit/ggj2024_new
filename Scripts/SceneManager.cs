@@ -4,9 +4,19 @@ using UnityEngine;
 
 public class SceneManager : MonoBehaviour
 {
+    
+
     // Start is called before the first frame update
     public void ChangeScene(string sceneName)
     {
+        if (sceneName.StartsWith("Level ")) {
+            int level = PlayerPrefs.GetInt("level");
+            int now_level = int.Parse(sceneName.Split(' ')[1]);
+            if (now_level > level)
+            {
+                PlayerPrefs.SetInt("level", now_level);
+            }
+        }
         UnityEngine.SceneManagement.SceneManager.LoadScene(sceneName);
     }
     public void GoToMenu()
@@ -29,8 +39,4 @@ public class SceneManager : MonoBehaviour
     //    if(Input.GetKeyDown(KeyCode.Escape))
     //        SetActive(obj);
     //}
-    public void ResetLevel()
-    {
-        PlayerPrefs.SetInt("level", 0);
-    }
 }

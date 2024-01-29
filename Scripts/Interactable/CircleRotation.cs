@@ -7,7 +7,7 @@ public class CircleRotation : MonoBehaviour
 {
     private Vector3 _vector3;
     public bool rotate = true;
-    public float time = 5f;
+    public float time = 2f;
     // Start is called before the first frame update
     void Start()
     {

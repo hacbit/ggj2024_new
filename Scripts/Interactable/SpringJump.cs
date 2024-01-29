@@ -4,12 +4,7 @@ using UnityEngine;
 
 public class SpringJump : MonoBehaviour
 {
-    public Animator animator;
     // Start is called before the first frame update
-    private void Awake()
-    {
-        animator = GetComponent<Animator>();
-    }
     void Start()
     {
         
@@ -26,7 +21,7 @@ public class SpringJump : MonoBehaviour
         Debug.Log(collision.gameObject.tag);
         if(collision.gameObject.tag == "Player")
         {
-            animator.Play("SpringJump");
+            GetComponent<Animator>().Play("SpringJump");
             collision.gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 500));
         }
     }

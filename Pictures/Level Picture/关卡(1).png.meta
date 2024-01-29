@@ -239,10 +239,10 @@ TextureImporter:
       name: "\u5173\u5361(1)_6"
       rect:
         serializedVersion: 2
-        x: 277
-        y: 810
-        width: 252
-        height: 52
+        x: 260
+        y: 776
+        width: 300
+        height: 120
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -429,9 +429,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 292
-        y: 667
-        width: 154
-        height: 55
+        y: 636
+        width: 184
+        height: 116
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -554,10 +554,10 @@ TextureImporter:
       name: "\u5173\u5361(1)_21"
       rect:
         serializedVersion: 2
-        x: 57
-        y: 490
-        width: 233
-        height: 122
+        x: 24
+        y: 456
+        width: 296
+        height: 188
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -722,10 +722,10 @@ TextureImporter:
       name: "\u5173\u5361(1)_29"
       rect:
         serializedVersion: 2
-        x: 224
+        x: 220
         y: 322
-        width: 154
-        height: 92
+        width: 158
+        height: 109
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,10 +743,10 @@ TextureImporter:
       name: "\u5173\u5361(1)_30"
       rect:
         serializedVersion: 2
-        x: 404
-        y: 357
-        width: 93
-        height: 68
+        x: 384
+        y: 324
+        width: 144
+        height: 108
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -870,9 +870,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 55
-        y: 217
-        width: 108
-        height: 68
+        y: 200
+        width: 133
+        height: 85
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -996,9 +996,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 51
-        y: 86
-        width: 145
-        height: 107
+        y: 72
+        width: 167
+        height: 121
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1016,10 +1016,10 @@ TextureImporter:
       name: "\u5173\u5361(1)_43"
       rect:
         serializedVersion: 2
-        x: 235
-        y: 74
-        width: 208
-        height: 114
+        x: 220
+        y: 40
+        width: 252
+        height: 152
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

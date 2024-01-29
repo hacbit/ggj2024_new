@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class LevelController : MonoBehaviour
 {
     public List<Button> buttons;
-    [SerializeField] private int level;
+    private int level;
     // Start is called before the first frame update
     void Start()
     {
